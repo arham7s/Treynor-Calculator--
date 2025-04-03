@@ -14,11 +14,14 @@ The **Treynor Ratio** measures the return earned in excess of the risk-free rate
 
 ### 🧮 Formula:
 
-<img src="[https://raw.githubusercontent.com/arham7s/treynor-ratio-calculator/main/formula.png](https://github.com/arham7s/Treynor-Calculator--/blob/main/Treynor_ratio.png)" width="300"/>
+<img src="https://raw.githubusercontent.com/arham7s/Treynor-Calculator--/main/Treynor_ratio.png" width="300"/>
 
-> Make sure the `formula.png` image is uploaded to your GitHub repo.
+Where:
 
----
+- \( r_p \) = Portfolio return  
+- \( r_f \) = Risk-free rate  
+- \( \beta_p \) = Portfolio beta
+
 
 ## ✅ Features
 
