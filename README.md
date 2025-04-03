@@ -1,7 +1,5 @@
 # Treynor-Calculator--
 
-https://treynnorratiocalculation.streamlit.app/
-
 # 📊 Treynor Ratio Calculator
 
 A simple and interactive **Streamlit app** that helps you calculate the **Treynor Ratio**, a key performance metric in portfolio management.
