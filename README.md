@@ -6,7 +6,7 @@ https://treynnorratiocalculation.streamlit.app/
 
 A simple and interactive **Streamlit app** that helps you calculate the **Treynor Ratio**, a key performance metric in portfolio management.
 
-🔗 **Live App**: [Treynor Calculator]([[https://treynnorratiocalculation.streamlit.app])
+🔗 **Live App**: [Click to use it now](https://treynnorratiocalculation.streamlit.app)
 
 ---
 
