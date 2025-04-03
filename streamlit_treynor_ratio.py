@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16pzq29suSpvYHy3PfpNMndjkbnenIj-Z
 """
 
-!pip install streamlit
 !npm install -g localtunnel
 
 import streamlit as st
